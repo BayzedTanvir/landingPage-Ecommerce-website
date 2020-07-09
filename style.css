@@ -163,7 +163,7 @@ section.top-part{
     color: #000000;
 }
 .footer-area{
-    height: 400px;
+    height: auto;
     background: #282531;
     color: rgb(196,196,199);
     padding-top: 50px;
